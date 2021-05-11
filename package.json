@@ -1,0 +1,19 @@
+{
+  "name": "midtermexam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "DamasinGantes_MidtermExam_Operation2.1.1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gdamasin/DamasinGantesMidtermExam.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gdamasin/DamasinGantesMidtermExam/issues"
+  },
+  "homepage": "https://github.com/Gdamasin/DamasinGantesMidtermExam#readme"
+}
